@@ -1,5 +1,5 @@
 ---
-title: Start with a Template
+title: Start with
 group: start
 weight: 10
 ---
